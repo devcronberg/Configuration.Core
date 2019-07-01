@@ -1,4 +1,4 @@
-# Eksempler på brug af konfigurationsfiler i en Console-Core app
+# Konfigurationsfiler i en Console-Core app
 
 Husk
 
